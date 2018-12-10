@@ -1,0 +1,2 @@
+# mybox
+a simple example
